@@ -1,0 +1,36 @@
+{
+  "game_dir": "D:\\Documents\\deepseek-harness\\default-workspace\\mc-launcher\\.minecraft",
+  "java_mode": "auto",
+  "java_path": "",
+  "mem_min": 1024,
+  "mem_max": 4096,
+  "custom_resolution": false,
+  "res_w": 854,
+  "res_h": 480,
+  "download_source": "auto",
+  "max_threads": 24,
+  "close_after_launch": false,
+  "jvm_extra": "",
+  "game_language": "zh_cn",
+  "server": "",
+  "server_port": 25565,
+  "accounts": [
+    {
+      "type": "offline",
+      "name": "Steve",
+      "uuid": "0550532a-7bdf-3ae6-902f-d9f724b94386",
+      "access_token": "0",
+      "refresh_token": "",
+      "xuid": "0"
+    },
+    {
+      "type": "offline",
+      "name": "Steve",
+      "uuid": "0550532a-7bdf-3ae6-902f-d9f724b94386",
+      "access_token": "0",
+      "refresh_token": "",
+      "xuid": "0"
+    }
+  ],
+  "active_account": 1
+}
